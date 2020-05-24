@@ -43,6 +43,8 @@ Capital letters are obtained using the same keystrokes as their lower-case equiv
 - press the `AltGr` and `~` keys together (then release them)
 - press the **`Shift`** and **`n`** keys together.
 
+Note how this is identical with the example in the previous section except for the addition of the **`Shift`** key.
+
 ### remembering the keystokes
 
 The keystrokes should be easy to remember: a grave accent looks like a back-tick `` ` ``, a circumflex looks like a ^ and an umlaut looks (a bit) like ". The only one that makes no sense is ¿ (`AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: `-`) which just has to be memorized :disappointed:.
