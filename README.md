@@ -29,6 +29,8 @@ The `AltGr` key is normally just to the right of the space-bar. Grave accents ar
 - press the `AltGr` and `~` keys together (then release them)
 - press the **`n`** key.
 
+Note that typing ¡ and ¿ require 3 keys pressed together.
+
 ### capital letters with accents
 
 Capital letters are obtained by pressing the `Shift` key when typing the final character. For example to type `Ñ`:
