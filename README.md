@@ -21,6 +21,8 @@ upside-down ! | ¡        | `AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: 
 
 The `AltGr` key is normally just to the right of the space-bar. Grave accents are typed using the `` ` `` key (known as the back-tick key), which is normally at the top-left of the keyboard) under the escape key. 
 
+Note that with this keyboard layout `` ` `` is a 'dead' key, which means when you press it nothing appears in your document. In the unlikely event that actually need to type \` in a document, just press it twice and it will appear.
+
 ### how to interpret the table above 
 
 - :heavy_plus_sign: means press keys together
