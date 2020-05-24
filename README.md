@@ -19,7 +19,7 @@ upside-down ! | ¡        | `AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: 
 
 ### weird keys
 
-The `AltGr` key is normally just to the right of the space-bar. The `` ` `` (known as the back-tick character) is normally at the top-left of the keyboard) under the escape key. 
+The `AltGr` key is normally just to the right of the space-bar. The `` ` `` key (known as the back-tick key) is normally at the top-left of the keyboard) under the escape key. 
 
 ### how to interpret the table above 
 
