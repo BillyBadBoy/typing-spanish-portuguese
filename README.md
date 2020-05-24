@@ -8,11 +8,11 @@ In settings select keyboard layout: **`English (UK, extended, with WIN keys)`**
 
 Accent        | Examples | Keystrokes
 ------------- |:--------:| ----------:
-acute         | áéí      | `AltGr` :heavy_plus_sign: `<key>`
-grave         | àèì      | `` ` `` :arrow_right: `<key>`
-circumflex    | âêî      | `AltGr` :heavy_plus_sign: `^` :arrow_right: `<key>`
-umlaut        | äëï      | `AltGr` :heavy_plus_sign: `"` :arrow_right: `<key>`
-tilde         | ãẽñ      | `AltGr` :heavy_plus_sign: `~` :arrow_right: `<key>`
+acute         | á é í    | `AltGr` :heavy_plus_sign: `<key>`
+grave         | à è ì    | `` ` `` :arrow_right: `<key>`
+circumflex    | â ê î    | `AltGr` :heavy_plus_sign: `^` :arrow_right: `<key>`
+umlaut        | ä ë ï    | `AltGr` :heavy_plus_sign: `"` :arrow_right: `<key>`
+tilde         | ã ẽ ñ    | `AltGr` :heavy_plus_sign: `~` :arrow_right: `<key>`
 c cedilla     | ç        | `AltGr` :heavy_plus_sign: `c`
 upside-down ? | ¿        | `AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: `-`
 upside-down ! | ¡        | `AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: `!`
