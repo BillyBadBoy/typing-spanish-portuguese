@@ -17,7 +17,7 @@ c cedilla     | ç        | `AltGr` :heavy_plus_sign: `c`
 upside-down ? | ¿        | `AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: `-`
 upside-down ! | ¡        | `AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: `!`
 
-### weird keys
+### which keys to press
 
 The `AltGr` key is normally just to the right of the space-bar. 
 
