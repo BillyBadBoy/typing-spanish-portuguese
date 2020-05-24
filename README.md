@@ -23,7 +23,7 @@ The `AltGr` key is normally just to the right of the space-bar. The `` ` `` (kno
 
 ### how to interpret the table above 
 
-:heavy_plus_sign: means press keys together, and :arrow_right: means press keys sequentially. For example to type **`ñ`** the table above says:
+:heavy_plus_sign: means press keys together, and :arrow_right: means press keys sequentially. For example to type `ñ` the table above says:
 
 `AltGr` :heavy_plus_sign: `~` :arrow_right: `<key>` (where `<key>` is **`n`** in this case). This means: 
 - press the `AltGr` and `~` keys together (then release them)
@@ -31,6 +31,6 @@ The `AltGr` key is normally just to the right of the space-bar. The `` ` `` (kno
 
 ### capital letters with accents
 
-The upper-case letters are obtained by simply holding down the `Shift` key when typing the final character. For example to type **`Ñ`**:
+The upper-case letters are obtained by holding down the `Shift` key when typing the final character. For example to type `Ñ`:
 - press the `AltGr` and `~` keys together (then release them)
 - press the `Shift` and **`n`** keys together.
