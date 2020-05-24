@@ -36,3 +36,7 @@ The `AltGr` key is normally just to the right of the space-bar. Grave accents ar
 Capital letters are obtained by pressing the `Shift` key when typing the final character. For example to type `Ñ`:
 - press the `AltGr` and `~` keys together (then release them)
 - press the **`Shift`** and **`n`** keys together.
+
+### remembering the keystokes
+
+The keystrokes should be easy to remember: a grave accent looks like a back-tick `` ` ``, a circumflex looks like a ^ and an umlaut looks (a bit) like ". The only one that makes no sense is ¿ (`AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: `-`) which just has to be memorized :(.
