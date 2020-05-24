@@ -21,6 +21,6 @@ notes:
     - press the `AltGr` and `~` keys together (then release them)
     - press the **`n`** key.
 
-- The upper-case letters are obtained by simply holding down the `Shift` key when typing the final character. Fore example to type **`Ñ`**:
+- The upper-case letters are obtained by simply holding down the `Shift` key when typing the final character. For example to type **`Ñ`**:
     - press the `AltGr` and `~` keys together (then release them)
     - press the `Shift` and **`n`** keys together.
