@@ -23,13 +23,11 @@ The `AltGr` key is normally just to the right of the space-bar. Grave accents ar
 
 ### how to interpret the table above 
 
-:heavy_plus_sign: means press keys together
+- :heavy_plus_sign: means press keys together
 
-:arrow_right: means press keys sequentially. 
+- :arrow_right: means press keys sequentially. 
 
-For example to type `ñ` the table above says:
-
-`AltGr` :heavy_plus_sign: `~` :arrow_right: `n` (because `<key>` is **`n`** in this case). This means: 
+For example to type `ñ`: lookup tilde in the table and replace `<key>` with **`n`** giving: `AltGr` :heavy_plus_sign: `~` :arrow_right: `n`, which means: 
 - press the `AltGr` and `~` keys together (then release them)
 - press the **`n`** key.
 
