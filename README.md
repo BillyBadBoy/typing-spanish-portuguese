@@ -31,6 +31,6 @@ The `AltGr` key is normally just to the right of the space-bar. The `` ` `` (kno
 
 ### capital letters with accents
 
-The upper-case letters are obtained by holding down the `Shift` key when typing the final character. For example to type `Ñ`:
+Capital letters are obtained by pressing the `Shift` key when typing the final character. For example to type `Ñ`:
 - press the `AltGr` and `~` keys together (then release them)
 - press the `Shift` and **`n`** keys together.
