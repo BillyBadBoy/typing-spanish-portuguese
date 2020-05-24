@@ -29,7 +29,7 @@ The `AltGr` key is normally just to the right of the space-bar. Grave accents ar
 - press the `AltGr` and `~` keys together (then release them)
 - press the **`n`** key.
 
-Note that typing ¡ and ¿ require 3 keys pressed together.
+(Note that typing ¡ and ¿ require 3 keys pressed together.)
 
 ### capital letters with accents
 
