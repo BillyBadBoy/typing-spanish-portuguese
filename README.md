@@ -29,7 +29,7 @@ Note that with this keyboard layout `` ` `` is a 'dead' key, which means when yo
 
 - :arrow_right: means press keys sequentially. 
 
-For example to type `ñ`: lookup tilde in the table and replace `<key>` with **`n`** giving: `AltGr` :heavy_plus_sign: `~` :arrow_right: `n`, which means: 
+For example to type `ñ`: lookup tilde in the table (replacing `<key>` with **`n`**) giving: `AltGr` :heavy_plus_sign: `~` :arrow_right: `n`, which means: 
 - press the `AltGr` and `~` keys together (then release them)
 - press the **`n`** key.
 
