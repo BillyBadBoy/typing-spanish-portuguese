@@ -39,4 +39,4 @@ Capital letters are obtained by pressing the `Shift` key when typing the final c
 
 ### remembering the keystokes
 
-The keystrokes should be easy to remember: a grave accent looks like a back-tick `` ` ``, a circumflex looks like a ^ and an umlaut looks (a bit) like ". The only one that makes no sense is ¿ (`AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: `-`) which just has to be memorized :(.
+The keystrokes should be easy to remember: a grave accent looks like a back-tick `` ` ``, a circumflex looks like a ^ and an umlaut looks (a bit) like ". The only one that makes no sense is ¿ (`AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: `-`) which just has to be memorized :disappointed:.
