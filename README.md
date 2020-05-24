@@ -25,7 +25,7 @@ Grave accents are typed using the `` ` `` key (known as the back-tick key), whic
 
 Note that with this keyboard layout `` ` `` is a 'dead' key, which means when you press it nothing appears in your document. In the unlikely event that actually need to type \` in a document, just press it twice and it will appear.
 
-In the keystrokes for ¿ (`AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: `-`) the `-` refers to the `minus` sign, which is by the 0 at the top-right of the keyboard. 
+The keystrokes for ¿ include the `-` key, which means the `minus` sign found by the 0 at the top-right of the keyboard. 
 
 ### how to interpret the table above 
 
