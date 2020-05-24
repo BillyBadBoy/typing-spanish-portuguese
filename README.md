@@ -13,6 +13,7 @@ grave         | àèìÒÙ    | `` ` `` :arrow_right: `<key>`
 circumflex    | âêîÔÛ    | `AltGr` :heavy_plus_sign: `^` :arrow_right: `<key>`
 umlaut        | äëïÖÜ    | `AltGr` :heavy_plus_sign: `"` :arrow_right: `<key>`
 tilde         | ãẽñÃÑ    | `AltGr` :heavy_plus_sign: `~` :arrow_right: `<key>`
+c cedilla     | ç        | `AltGr` :heavy_plus_sign: `c`
 upside-down ? | ¿        | `AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: `-`
 upside-down ! | ¡        | `AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: `!`
 
