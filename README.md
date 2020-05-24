@@ -18,10 +18,14 @@ upside-down ? | ¿        | `AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: 
 upside-down ! | ¡        | `AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: `!`
 
 notes:
-- :heavy_plus_sign: means press keys together, and :arrow_right: means press keys sequentially. For example to type **`ñ`** the table above says: `AltGr` :heavy_plus_sign: `~` :arrow_right: `<key>` (where `<key>` is **`n`** in this case). This means: 
+
+The `AltGr` key is normally just to the right of the space-bar. The `` ` `` (known as the back-tick character) is normally at the top-left of the keyboard) under the escape key. 
+
+:heavy_plus_sign: means press keys together, and :arrow_right: means press keys sequentially. For example to type **`ñ`** the table above says: 
+`AltGr` :heavy_plus_sign: `~` :arrow_right: `<key>` (where `<key>` is **`n`** in this case). This means: 
     - press the `AltGr` and `~` keys together (then release them)
     - press the **`n`** key.
 
-- The upper-case letters are obtained by simply holding down the `Shift` key when typing the final character. For example to type **`Ñ`**:
+The upper-case letters are obtained by simply holding down the `Shift` key when typing the final character. For example to type **`Ñ`**:
     - press the `AltGr` and `~` keys together (then release them)
     - press the `Shift` and **`n`** keys together.
