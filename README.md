@@ -37,7 +37,7 @@ For example to type `ñ`: lookup tilde in the table and replace `<key>` with **`
 
 ### capital letters with accents
 
-Capital letters are obtained using the same keystrokes as their lower-case equivalents except that the `Shift` key is pressed with the final keystroke. For example to type `Ñ`begin with the table entry for `ñ` but end with `Shift` :heavy_plus_sign: `n` instead of just `n` :
+Capital letters are obtained using the same keystrokes as their lower-case equivalents except that the `Shift` key is pressed along with the final keystroke. For example to type `Ñ`start with the table entry for `ñ` but use `Shift` :heavy_plus_sign: `n` instead of just `n` :
 
 `AltGr` :heavy_plus_sign: `~` :arrow_right: `Shift` :heavy_plus_sign: `n`, which means:
 - press the `AltGr` and `~` keys together (then release them)
