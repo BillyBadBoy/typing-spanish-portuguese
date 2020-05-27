@@ -26,9 +26,7 @@ The `AltGr` key is normally just to the right of the space-bar.
  - `AltGr` :heavy_plus_sign: `e` to type **é** 
  - etc 
 
-Grave accents are typed using the `` ` `` key (known as the back-tick key), which is normally at the top-left of the keyboard) under the escape key. 
-
-Note that with this keyboard layout `` ` `` is a 'dead' key, which means when you press it nothing appears in your document. In the unlikely event that actually need to type \` in a document, just press it twice and it will appear.
+Grave accents are typed using the `` ` `` key (known as the back-tick key), which is normally at the top-left of the keyboard) under the escape key. Note that with this keyboard layout `` ` `` is a 'dead' key, which means when you press it nothing appears in your document. In the unlikely event that actually need to type \` in a document, just press it twice and it will appear.
 
 The keystrokes for ¿ include the `-` key, which means the `minus` sign found by the 0 at the top-right of the keyboard. 
 
