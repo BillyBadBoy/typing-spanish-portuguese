@@ -21,6 +21,11 @@ upside-down ! | ¡        | `AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: 
 
 The `AltGr` key is normally just to the right of the space-bar. 
 
+`<key>` refers to the letter that will have an accent added. For example acute accents are added using `AltGr` :heavy_plus_sign: `<key>`. This means:
+ - `AltGr` :heavy_plus_sign: `a` to type **á**, 
+ - `AltGr` :heavy_plus_sign: `e` to type **é** 
+ - etc 
+
 Grave accents are typed using the `` ` `` key (known as the back-tick key), which is normally at the top-left of the keyboard) under the escape key. 
 
 Note that with this keyboard layout `` ` `` is a 'dead' key, which means when you press it nothing appears in your document. In the unlikely event that actually need to type \` in a document, just press it twice and it will appear.
