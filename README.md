@@ -6,16 +6,18 @@ In settings select keyboard layout: **`English (UK, extended, with WIN keys)`**
 
 ## Typing non-english characters
 
-Accent        | Examples | Keystrokes
-------------- |:--------:| ----------:
-acute         | á é í    | `AltGr` :heavy_plus_sign: `<key>`
-grave         | à è ì    | `` ` `` :arrow_right: `<key>`
-circumflex    | â ê î    | `AltGr` :heavy_plus_sign: `^` :arrow_right: `<key>`
-umlaut        | ä ë ï    | `AltGr` :heavy_plus_sign: `"` :arrow_right: `<key>`
-tilde         | ã ẽ ñ    | `AltGr` :heavy_plus_sign: `~` :arrow_right: `<key>`
-c cedilla     | ç        | `AltGr` :heavy_plus_sign: `c`
-upside-down ? | ¿        | `AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: `-`
-upside-down ! | ¡        | `AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: `!`
+Accent          | Examples | Keystrokes
+----------------|:--------:| ----------:
+acute           | á é í    | `AltGr` :heavy_plus_sign: `<key>`
+grave           | à è ì    | `` ` `` :arrow_right: `<key>`
+circumflex      | â ê î    | `AltGr` :heavy_plus_sign: `^` :arrow_right: `<key>`
+umlaut          | ä ë ï    | `AltGr` :heavy_plus_sign: `"` :arrow_right: `<key>`
+tilde           | ã ẽ ñ    | `AltGr` :heavy_plus_sign: `~` :arrow_right: `<key>`
+c cedilla       | ç        | `AltGr` :heavy_plus_sign: `c`
+left guillemet  | «        | `AltGr` :heavy_plus_sign: `z`
+right guillemet | »        | `AltGr` :heavy_plus_sign: `x`
+upside-down ?   | ¿        | `AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: `-`
+upside-down !   | ¡        | `AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: `!`
 
 ### which keys to press
 
