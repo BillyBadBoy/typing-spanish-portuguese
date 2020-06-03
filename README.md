@@ -20,7 +20,7 @@ upside-down ?   | ¿        | `AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign
 upside-down !   | ¡        | `AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: `!`
 
 ----
-### which keys to press
+#### which keys to press
 
 The `AltGr` key is normally just to the right of the space-bar. 
 
@@ -34,7 +34,7 @@ Grave accents are typed using the `` ` `` key (known as the back-tick key), whic
 The keystrokes for ¿ include the `-` key, which means the `minus` sign found by the 0 at the top-right of the keyboard. 
 
 ----
-### how to interpret the table above 
+#### how to interpret the table above 
 
 - :heavy_plus_sign: means press keys together
 
@@ -49,7 +49,7 @@ For example to type `ñ` lookup tilde in the table (replacing `<key>` with **`n`
 (Note that typing ¡ and ¿ require 3 keys pressed together.)
 
 ----
-### capital letters with accents
+#### capital letters with accents
 
 Capital letters are obtained using the same keystrokes as their lower-case equivalents except that the `Shift` key is pressed along with the final keystroke. For example to type `Ñ`start with the table entry for `ñ` but use `Shift` :heavy_plus_sign: `n` instead of just `n` :
 
@@ -60,6 +60,6 @@ Capital letters are obtained using the same keystrokes as their lower-case equiv
 Note how this is identical with the example in the previous section except for the addition of the **`Shift`** key.
 
 ----
-### remembering the keystokes
+#### remembering the keystokes
 
 The keystrokes should be easy to remember: a grave accent looks like a back-tick `` ` ``, a circumflex looks like a ^ and an umlaut looks (a bit) like ". The only one that makes no sense is ¿ (`AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign: `-`) which just has to be memorized :disappointed:. Also note that all combinations start with the `AltGr` key except for grave accents (which start with the `` ` `` back-tick key).
