@@ -24,7 +24,7 @@ upside-down !   | ¡        | `AltGr` :heavy_plus_sign: `Shift` :heavy_plus_sign
 
 The `AltGr` key is normally just to the right of the space-bar. 
 
-`<key>` refers to the letter that will have an accent added. For example acute accents are added using `AltGr` :heavy_plus_sign: `<key>`. This means:
+`<key>` refers to the letter you want accented. For example acute accents are added using `AltGr` :heavy_plus_sign: `<key>`. This means:
  - `AltGr` :heavy_plus_sign: `a` to type **á**, 
  - `AltGr` :heavy_plus_sign: `e` to type **é** 
  - etc 
